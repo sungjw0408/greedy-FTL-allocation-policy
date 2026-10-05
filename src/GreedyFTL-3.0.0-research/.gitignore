@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+results/
+outputs/
+*.log
+Debug/
+Release/
+.metadata/
+*.o
+*.elf
+*.bit
+*.hdf
+*.xsa
